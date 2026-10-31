@@ -27,7 +27,7 @@ I am pursuing a Bachelor of Computer Applications (BCA) in Data Science at Amrit
 ## Project Structure
 
 
-student-protfolio/
+bca-first-year-work/
 ├── index.html
 ├── style.css
 ├── README.md
